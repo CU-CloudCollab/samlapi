@@ -12,3 +12,7 @@ After this command has been run it will prompt you for your netid and password. 
 ```
 aws --profile saml s3 ls
 ```
+
+## More Info
+
+http://blogs.cornell.edu/cloudification/2016/07/05/using-shibboleth-for-aws-api-and-cli-access/
