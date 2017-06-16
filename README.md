@@ -16,3 +16,5 @@ aws --profile saml s3 ls
 ## More Info
 
 http://blogs.cornell.edu/cloudification/2016/07/05/using-shibboleth-for-aws-api-and-cli-access/
+
+Base Image can be found here: https://github.com/CU-CommunityApps/docker-xvfb-firefox.
